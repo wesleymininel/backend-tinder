@@ -72,7 +72,6 @@ Alternativamente, você pode executar a aplicação utilizando Docker. Certifiqu
    ```sh
    sudo docker build -t backend-tinder .
    ```
-   Este comando cria uma imagem Docker chamada tinder-style baseada no Dockerfile fornecido.
 
 4. **Execute o contêiner**:
    ```sh
