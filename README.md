@@ -1,6 +1,8 @@
 # Projeto: Tinder Style - Backend
 
-Este projeto é uma aplicação backend desenvolvida em Python com Flask, responsável por gerenciar as interações realizadas no frontend de um sistema estilo Tinder (https://github.com/wesleymininel/frontend-tinder/).
+Este projeto consiste em uma aplicação backend desenvolvida em Python com o framework Flask, responsável por gerenciar as interações provenientes do frontend (https://github.com/wesleymininel/frontend-tinder/) de um sistema de matching inspirado no Tinder.
+
+Trata-se de um MVP construído como parte das atividades da disciplina de Arquitetura de Software, no curso de Pós-Graduação em Engenharia de Software da PUC-RIO.
 
 A API expõe endpoints RESTful que permitem:
 
