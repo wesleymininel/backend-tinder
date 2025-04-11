@@ -1,4 +1,4 @@
-# Projeto: Tinder Style - Backend
+# Projeto: # Projeto: MVP Backend - Arquitetura de Software - Pós-Graduação em Engenharia de Software - PUC-RIO.
 
 Este projeto consiste em uma aplicação backend desenvolvida em Python com o framework Flask, responsável por gerenciar as interações provenientes do frontend (https://github.com/wesleymininel/frontend-tinder/) de um sistema de matching inspirado no Tinder.
 
